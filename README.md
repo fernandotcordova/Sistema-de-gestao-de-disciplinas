@@ -56,9 +56,9 @@ sistema.ensino
 
 ## 🗄️ Banco de Dados
 
-Para rodar o projeto localmente, crie um banco de dados no seu PostgreSQL chamado `sistema_ensino` e execute o script SQL abaixo para gerar a estrutura correta:
+Para rodar o projeto localmente, crie um banco de dados no seu PostgreSQL chamado `sistema_ensino` e execute o script SQL abaixo:
 
--- Registros de teste (Opcional)
+- Registros de teste (Opcional)
 ```SQL
 INSERT INTO disciplina (nome_disciplina, professor_titular, quantidade_estudantes, periodo_ocorre) 
 VALUES ('Programação Orientada a Objetos', 'Dr. Carlos Silva', 35, 3);
