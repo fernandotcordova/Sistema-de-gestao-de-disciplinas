@@ -89,4 +89,4 @@ VALUES ('Programação Orientada a Objetos', 'Dr. Carlos Silva', 35, 3);
 Este projeto é protegido por uma licença proprietária. O uso é **estritamente vetado para fins acadêmicos** e **não pode ser utilizado para fins comerciais**. Consulte o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-Desenvolvido por **Seu Nome** 👋
+Desenvolvido por **Luiz Fernando Turela Cordova** 👋
