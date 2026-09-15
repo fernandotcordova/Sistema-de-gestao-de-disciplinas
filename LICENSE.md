@@ -1,14 +1,5 @@
 # 📄 Termos de Uso e Licença de Software
 
-### 🛠️ Tecnologias Protegidas por esta Licença:
-<p align="left">
-  <img src="https://jsdelivr.net" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Git" width="45" height="45"/>
-</p>
-
----
-
 Este software é fornecido sob uma licença proprietária e restrita. Ao fazer o download, instalar, copiar ou usar este código-fonte ou qualquer parte dele, você concorda explicitamente com as seguintes condições de uso:
 
 ### ⚠️ 1. Vetado para Fins Acadêmicos
@@ -22,6 +13,6 @@ Este software é disponibilizado estritamente para fins de **ESTUDO PESSOAL E DE
 
 ---
 
-> 🔒 **Copyright © 2026 Seu Nome Completo.**  
+> 🔒 **Copyright © 2026 Luiz Fernando Turela Cordova.**  
 > Todos os direitos reservados de acordo com a legislação de propriedade intelectual vigente.
 
