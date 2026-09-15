@@ -58,20 +58,11 @@ sistema.ensino
 
 Para rodar o projeto localmente, crie um banco de dados no seu PostgreSQL chamado `sistema_ensino` e execute o script SQL abaixo para gerar a estrutura correta:
 
-```sql
--- Criação da tabela de disciplinas
-CREATE TABLE disciplina (
-    id SERIAL PRIMARY KEY,
-    nome_disciplina VARCHAR(150) NOT NULL,
-    professor_titular VARCHAR(150) NOT NULL,
-    quantidade_estudantes INTEGER DEFAULT 0,
-    periodo_ocorre INTEGER NOT NULL
-);
-
 -- Registros de teste (Opcional)
+```SQL
 INSERT INTO disciplina (nome_disciplina, professor_titular, quantidade_estudantes, periodo_ocorre) 
 VALUES ('Programação Orientada a Objetos', 'Dr. Carlos Silva', 35, 3);
-```
+``` 
 
 ---
 
@@ -79,7 +70,7 @@ VALUES ('Programação Orientada a Objetos', 'Dr. Carlos Silva', 35, 3);
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Sistema-de-gestao-de-disciplinas.git
    ```
 2. **Configure o Banco de Dados:**
    * Certifique-se de que o PostgreSQL está rodando.
